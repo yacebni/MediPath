@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"fr.student.algo"},{"l":"fr.student.ihm"},{"l":"fr.student.test"}];updateSearchResults();
